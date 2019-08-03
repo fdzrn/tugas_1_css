@@ -1,0 +1,14 @@
+img {
+	float: left;
+	width: 30px;
+	height: 30px;
+	margin-right: 10px;
+}
+h1{
+	text-transform: uppercase;
+}
+p {
+	color: blue;
+	font-size: 18px;
+	text-align: justify;
+}
